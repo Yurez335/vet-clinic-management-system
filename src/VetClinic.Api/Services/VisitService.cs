@@ -1,0 +1,1 @@
+public class VisitService { public int AddVisit() => 1; }
