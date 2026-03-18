@@ -70,19 +70,19 @@
 
 ### Управление записями на приём
 
-![Appointments](docs/screenshots/appointments.png)
+![Appointments](./docs/screenshots/appointments.png)
 
 ### Проведение приёма
 
-![Examination](docs/screenshots/examination.png)
+![Examination](./docs/screenshots/examination.png)
 
 ### История пациента
 
-![History](docs/screenshots/history.png)
+![History](./docs/screenshots/history.png)
 
 ### Личный кабинет владельца
 
-![Owner](docs/screenshots/owner.png)
+![Owner](./docs/screenshots/owner.png)
 
 ---
 
